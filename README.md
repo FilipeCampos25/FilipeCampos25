@@ -1,51 +1,82 @@
 <div align="center">
 
-<img src="https://github.com/seuusuario/seuusuario/blob/main/banner.png" alt="Banner" width="100%"/>
+<!-- Título e Introdução -->
+# Olá, eu sou o Filipe de Campos Duarte 👋
 
-# Oi, eu sou o Seu Nome 👋
-🔭 Trabalhando com React, Node.js e Python  
-🌱 Aprendendo Rust e Web3  
-⚡ Fun fact: já quebrei o production às 3h da manhã... e consertei às 3h15
+### Desenvolvedor Full Stack Python | Estudante de Ciência da Computação
 
 <br>
 
-<!-- GitHub Stats -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=seuusuario&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seuusuario&layout=compact&langs_count=8&theme=dark"/>
+<!-- Badges de Status do GitHub (Personalizados para o usuário) -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=FilipeCampos25&show_icons=true&theme=dark&include_all_commits=true&count_private=true&line_height=25"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FilipeCampos25&layout=compact&langs_count=8&theme=dark&line_height=25"/>
 
-<!-- Streak -->
-<div>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=seuusuario&theme=dark" alt="streak"/>
-</div>
+<br>
 
 <!-- Trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=seuusuario&theme=dark&no-frame=true&margin-w=15&margin-h=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=FilipeCampos25&theme=dark&no-frame=true&margin-w=15&margin-h=15"/>
 
 <br>
 
-### 🚀 Tecnologias que eu uso
-<img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-<img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-<img align="center" alt="Node.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-<!-- adicione mais ícones aqui: https://devicons.dev -->
+<!-- Seção Sobre Mim/Resumo Profissional -->
+## 🎯 Sobre Mim
+
+> Sou estudante de Ciência da Computação (4º semestre) no Centro Universitário IESB e busco uma oportunidade de estágio para aplicar e expandir meus conhecimentos em programação. Meu foco atual é o **desenvolvimento Full Stack com Python**, onde busco criar soluções inovadoras e eficientes.
 
 <br>
 
-### 📊 Atividade recente
-![Atividade](https://github-readme-activity-graph.vercel.app/graph?username=seuusuario&theme=dracula&hide_border=true)
+<!-- Seção de Habilidades Técnicas -->
+## 🛠️ Habilidades Técnicas
+
+### Linguagens & Frameworks
+| Categoria | Tecnologias |
+| :--- | :--- |
+| **Linguagens** | Python (Intermediário), C (Básico), SQL (Básico), HTML (Básico), CSS (Básico), JavaScript (Básico) |
+| **Frameworks** | Flask, SQLAlchemy |
+| **Banco de Dados** | PostgreSQL, MySQL Workbench |
+| **Ferramentas** | GIT, VS Code |
 
 <br>
 
-### 🐍 Minhas contribuições em snake (muito famoso)
-![Snake animation](https://raw.githubusercontent.com/seuusuario/seuusuario/output/github-contribution-grid-snake-dark.svg)
+<!-- Seção de Projetos em Destaque -->
+## 🚀 Projetos em Destaque
+
+| Projeto | Descrição | Tecnologias | Link |
+| :--- | :--- | :--- | :--- |
+| **MonEdu - Site Gamificado** | Sistema web educacional desenvolvido com Flask, integrando funcionalidades de cadastro, login, gamificação e simulador de investimentos. | Python, Flask, PostgreSQL/SQLite | [Repositório](https://github.com/FilipeCampos25/MonEdu) |
+| **Geek Bank - Sistema Bancário** | Sistema bancário simples de linha de comando implementado em Python, focado em POO (Programação Orientada a Objetos). | Python | [Repositório](https://github.com/FilipeCampos25/BankPython) |
 
 <br>
 
+<!-- Atividade Recente (Gráfico) -->
+## 📊 Atividade Recente
+
+<!-- Use o tema 'dracula' ou 'dark' para manter a consistência com o tema escuro -->
+![Atividade](https://github-readme-activity-graph.vercel.app/graph?username=FilipeCampos25&theme=dracula&hide_border=true)
+
+<br>
+
+<!-- Contribuições Snake (Opcional, mas moderno) -->
+<!-- O usuário deve rodar o workflow para gerar este arquivo. Deixarei o placeholder. -->
+<!-- Para funcionar, o usuário precisa configurar o workflow 'snake' no seu repositório de perfil. -->
+<!-- ![Snake animation](https://raw.githubusercontent.com/FilipeCampos25/FilipeCampos25/output/github-contribution-grid-snake-dark.svg) -->
+
+<br>
+
+<!-- Rodapé: Contato e Visitantes -->
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=seuusuario.seuusuario" alt="visitors"/>
+  <!-- Contador de Visitantes -->
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=FilipeCampos25.FilipeCampos25" alt="Contador de Visitantes"/>
+  
   <br>
-  <a href="https://www.linkedin.com/in/seu-perfil/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:seuemail@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  
+  <!-- Badges de Contato -->
+  <a href="https://www.linkedin.com/in/filipe-de-campos/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:lipecduarte255@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+  
+  <br>
+  
+  <p>Feito com ❤️ e Markdown</p>
 </div>
 
 </div>
