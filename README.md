@@ -1,7 +1,8 @@
 <div align="center">
 
 <!-- Título e Introdução -->
-# Olá, eu sou o Filipe de Campos Duarte 👋
+![Atividade](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Olá,%20eu%20sou%20o%20Filipe%20de%20Campos%20Duarte%20&fontSize=35&animation=fadeIn)
+
 
 ### Desenvolvedor Full Stack Python | Estudante de Ciência da Computação
 
@@ -12,9 +13,6 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FilipeCampos25&layout=compact&langs_count=8&theme=dark&line_height=25"/>
 
 <br>
-
-<!-- Trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=FilipeCampos25&theme=dark&no-frame=true&margin-w=15&margin-h=15"/>
 
 <br>
 
@@ -31,10 +29,10 @@
 ### Linguagens & Frameworks
 | Categoria | Tecnologias |
 | :--- | :--- |
-| **Linguagens** | Python (Intermediário), C (Básico), SQL (Básico), HTML (Básico), CSS (Básico), JavaScript (Básico) |
-| **Frameworks** | Flask, SQLAlchemy |
-| **Banco de Dados** | PostgreSQL, MySQL Workbench |
-| **Ferramentas** | GIT, VS Code |
+| **Linguagens** | Python (Intermediário), SQL (Intermediário), HTML (Básico), CSS (Básico), JavaScript (Básico) |
+| **Frameworks** | Flask, SQLAlchemy, Pandas, Selenium, FastAPI |
+| **Banco de Dados** | PostgreSQL, MySQL Workbench, SQLite3 |
+| **Ferramentas** | GIT, VS Code, Docker |
 
 <br>
 
@@ -45,6 +43,24 @@
 | :--- | :--- | :--- | :--- |
 | **MonEdu - Site Gamificado** | Sistema web educacional desenvolvido com Flask, integrando funcionalidades de cadastro, login, gamificação e simulador de investimentos. | Python, Flask, PostgreSQL/SQLite | [Repositório](https://github.com/FilipeCampos25/MonEdu) |
 | **Geek Bank - Sistema Bancário** | Sistema bancário simples de linha de comando implementado em Python, focado em POO (Programação Orientada a Objetos). | Python | [Repositório](https://github.com/FilipeCampos25/BankPython) |
+
+<br>
+
+## 💻 Experiências Profissionais
+
+### **Desenvolvedor Freelancer**
+Autônomo
+Janeiro/2025 - Outubro/2025
+
+- Desenvolvimento de sites e sistemas web sob demanda (HTML, CSS, JS, Python, MySQL/PostgreSQL)
+- Levantamento de requisitos, entrega e manutenção para diversos clientes
+
+### **Desenvolvedor Full Stack**
+Sensipam – Centro Gestor e Operacional do Sistema de Proteção da Amazônia (Ministério da Defesa)
+Novembro/2025 – Atual
+
+- Arquitetura de banco de dados e pipelines de extração com Selenium + Python (portais PGC, PNCP, Compras.gov.br)
+- Desenvolvimento full stack containerizado com Docker (API REST, backend Python, frontend e BD)
 
 <br>
 
@@ -71,12 +87,11 @@
   <br>
   
   <!-- Badges de Contato -->
-  <a href="https://www.linkedin.com/in/filipe-de-campos/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="www.linkedin.com/in/filipe-de-campos"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:lipecduarte255@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
   
   <br>
   
-  <p>Feito com ❤️ e Markdown</p>
-</div>
 
-</div>
+![Atividade](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&textBg=false&section=footer&reversal=false)
+
